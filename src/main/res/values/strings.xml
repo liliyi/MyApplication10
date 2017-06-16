@@ -3,4 +3,53 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--mainActivity-->
+
+    <string name="cityname">北京</string>
+    <string name="hint">输入商户名、地点</string>
+    <string name="bottom1">首页</string>
+    <string name="bottom2">闪惠团购</string>
+    <string name="bottom3">发现</string>
+    <string name="bottom4">我的</string>
+
+    <!-- mokuai -->
+    <string name="body1">美食</string>
+    <string name="body2">电影/演出</string>
+    <string name="body3">酒店</string>
+    <string name="body4">休闲娱乐</string>
+    <string name="body5">外卖</string>
+    <string name="body6">小吃快餐</string>
+    <string name="body7">丽人/美发</string>
+    <string name="body8">周边游</string>
+
+    <string name="body9">购物</string>
+    <string name="body10">足疗按摩</string>
+    <string name="body11">美发</string>
+    <string name="body12">综合商场</string>
+    <string name="body13">亲子</string>
+    <string name="body14">运动健身</string>
+    <string name="body15">美甲美睫</string>
+    <string name="body16">结婚/摄影</string>
+
+    <string name="body17">KTV</string>
+    <string name="body18">医疗健康</string>
+    <string name="body19">鲜花</string>
+    <string name="body20">爱车</string>
+    <string name="body21">学习培训</string>
+    <string name="body22">宠物</string>
+    <string name="body23">家装</string>
+    <string name="body24">全部分类</string>
+
+
+    <!--body -->
+    <string name="mk1">一波现金卷@你</string>
+    <string name="der1">毕业季一起对话童年</string>
+
+    <string name="mk2">小S喊你免费领</string>
+    <string name="der2">耳机、涂色包等礼包</string>
+
+    <string name="mk3">开扒新人气餐馆</string>
+    <string name="der3">这碗今夏最销魂</string>
+
+
 </resources>

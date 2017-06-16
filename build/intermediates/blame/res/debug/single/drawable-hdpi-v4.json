@@ -1,702 +1,702 @@
 [
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_imarry.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_imarry.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_icon_locate.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\detail_icon_locate.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_ktv.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_ktv.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bucket_no_picture.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\bucket_no_picture.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_button_background_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\search_bar_button_background_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_add_icon_pay.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\home_add_icon_pay.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_scen_icon_locate.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\home_scen_icon_locate.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_pub.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_pub.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dot_selected.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\banner_dot_selected.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hotel_booking_web_loading_3.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\hotel_booking_web_loading_3.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_yanchu.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_yanchu.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_easylife.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_easylife.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_favorite_off_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_action_favorite_off_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_navibar_icon_add.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\home_navibar_icon_add.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\MyApplication9\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\screen_skip.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\screen_skip.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_add_icon_pay.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\home_add_icon_pay.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\MyApplication10\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_bg_left.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\my_bg_left.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_bg_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\edit_bg_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yy_calendar_icon_next.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\yy_calendar_icon_next.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_movie.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_movie.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star40.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star40.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dot.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\banner_dot.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\MyApplication10\\pullToRefresh_Library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star45.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star45.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_index_my_pressed.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\main_index_my_pressed.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_location_self.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\map_location_self.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_food.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_food.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hotel_booking_web_loading_2.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\hotel_booking_web_loading_2.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_light_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\btn_light_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star10.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star10.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\tab_right_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_comer_guide_fg_3.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\new_comer_guide_fg_3.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_ktv.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_ktv.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_index_tuan_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\main_index_tuan_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_comer_guide_fg_1.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\new_comer_guide_fg_1.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_house.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_house.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bucket_no_picture.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\bucket_no_picture.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_grouponshan.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_grouponshan.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_coffee.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_coffee.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_jingdian0528.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_jingdian0528.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_easylife.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_easylife.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_bg_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\edit_bg_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_relax.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_relax.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_bg_focused.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\edit_bg_focused.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shop_footerbar_locate_checked.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\shop_footerbar_locate_checked.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\MyApplication10\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_icon_arrow.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\detail_icon_arrow.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_icon_arrow.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\detail_icon_arrow.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_liren.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_liren.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_one_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_one_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_navibar_tips_icon_store.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\home_navibar_tips_icon_store.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_navibar_icon_add.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\home_navibar_icon_add.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_locate.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\icon_locate.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_one_done.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_one_done.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_baby.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_baby.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_light_press.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\btn_light_press.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_sport.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_sport.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_sport.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_sport.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hotel_booking_web_loading_1.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\hotel_booking_web_loading_1.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star20.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star20.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_scen_icon_locate.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\home_scen_icon_locate.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_loc_in_map_u.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_loc_in_map_u.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_jipiao.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_jipiao.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star40.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star40.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_frontpage.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_frontpage.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_location_mapchoose.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\icon_location_mapchoose.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_discount.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_discount.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\MyApplication10\\pullToRefresh_Library\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hotel_booking_web_loading_2.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\hotel_booking_web_loading_2.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_jiazhuang.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_jiazhuang.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_location_mapchoose.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\icon_location_mapchoose.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mid_filter_bg.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\mid_filter_bg.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_icon_phone.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\detail_icon_phone.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_navibar_tips_icon_comment.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\home_navibar_tips_icon_comment.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loc.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\loc.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\MyApplication9\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_navibar_tips_icon_comment.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\home_navibar_tips_icon_comment.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hotel_booking_web_loading_1.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\hotel_booking_web_loading_1.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bodya.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\bodya.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_comer_guide_fg_4.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\new_comer_guide_fg_4.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\square1.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\square1.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_three_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_three_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_index_my_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\main_index_my_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ump_icon_delete.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ump_icon_delete.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_pub.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_pub.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\screen_skip.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\screen_skip.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_comer_guide_fg_1.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\new_comer_guide_fg_1.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_bg_focused.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\edit_bg_focused.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_comer_guide_fg_4.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\new_comer_guide_fg_4.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_shoppingmall.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_shoppingmall.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_button_bg.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\bottom_button_bg.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\MyApplication10\\pullToRefresh_Library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_icon_more_u.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\title_icon_more_u.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_home_arrow_down_pressed.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\title_home_arrow_down_pressed.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star30.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star30.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_title_bar.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\search_title_bar.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yy_calendar_icon_previous.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\yy_calendar_icon_previous.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_title_bar_cover.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\search_title_bar_cover.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\tab_left_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ump_icon_delete.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ump_icon_delete.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\MyApplication9\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_car.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_car.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navibar_search_icon_search.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\navibar_search_icon_search.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dot.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\banner_dot.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\MyApplication10\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_up_black.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_arrow_up_black.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\MyApplication9\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dot_pressed.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\banner_dot_pressed.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_splash_screen.jpg",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_splash_screen.jpg"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star30.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star30.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_book.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_book.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_one_done.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_one_done.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_icon_locate.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\detail_icon_locate.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_bangdan_green.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_bangdan_green.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_book.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_book.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_shoppingmall.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_shoppingmall.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_favorite_off_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_action_favorite_off_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star35.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star35.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_pet.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_pet.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dot_pressed.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\banner_dot_pressed.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_weight_press.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\btn_weight_press.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_movie.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_movie.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_share_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_action_share_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_baby.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_baby.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dot_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\banner_dot_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_loc_in_map_u.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_loc_in_map_u.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_discount.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_discount.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_three_done.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_three_done.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_food.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_food.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_navibar_tips_icon_scan.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\home_navibar_tips_icon_scan.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_icon_more_u.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\title_icon_more_u.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_two_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_two_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_bangdan_green.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_bangdan_green.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_splash_screen.jpg",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_splash_screen.jpg"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\MyApplication10\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_grouponshan.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_grouponshan.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_relax.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_relax.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_home_arrow_down_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\title_home_arrow_down_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scenic_local.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\scenic_local.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_light_press.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\btn_light_press.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_jipiao.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_jipiao.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_comer_guide_fg_2.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\new_comer_guide_fg_2.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star20.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star20.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_village.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_village.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_press.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\tab_left_press.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_icon_phone.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\detail_icon_phone.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_house.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_house.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_navibar_tips_icon_scan.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\home_navibar_tips_icon_scan.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_button_background_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\search_bar_button_background_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_two_done.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_two_done.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_two_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_two_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_share_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_action_share_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_bg_left.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\my_bg_left.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_footer.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_footer.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_liren.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_liren.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dot_selected.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\banner_dot_selected.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_btn_filter_selected.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_btn_filter_selected.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_title_bar.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\search_title_bar.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_takeaway.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_takeaway.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star50.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star50.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mid_filter_bg.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\mid_filter_bg.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_two_done.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_two_done.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_zhoubianyou.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_zhoubianyou.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\MyApplication10\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_trip0701.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_trip0701.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navibar_icon_search.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\navibar_icon_search.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_press.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\tab_left_press.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\tab_left_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_btn_filter_selected.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_btn_filter_selected.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_press.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\tab_right_press.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_down_black.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_arrow_down_black.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bodyb.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\bodyb.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star50.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star50.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_homework.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_homework.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_comer_guide_fg_3.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\new_comer_guide_fg_3.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_village.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_village.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_bg_right.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\my_bg_right.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_my_location_circle.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\map_my_location_circle.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_weight_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\btn_weight_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_my_location_circle.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\map_my_location_circle.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shop_footerbar_locate_checked.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\shop_footerbar_locate_checked.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loc.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\loc.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_weight_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\btn_weight_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_index_tuan_pressed.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\main_index_tuan_pressed.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_one_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_one_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_index_search_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\main_index_search_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star45.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star45.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_yanchu.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_yanchu.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_jingdian0528.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_jingdian0528.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_more.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_more.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star10.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star10.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_index_home_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\main_index_home_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_bg_right.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\my_bg_right.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navibar_search_icon_search.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\navibar_search_icon_search.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dot_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\banner_dot_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\MyApplication9\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_down_black.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_arrow_down_black.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_corner_bg.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\round_corner_bg.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_car.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_car.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_location_self.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\map_location_self.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\MyApplication10\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navibar_icon_search.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\navibar_icon_search.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_jiazhuang.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_jiazhuang.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scenic_local.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\scenic_local.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_trip0701.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_trip0701.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_footer.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_footer.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_star35.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\movie_star35.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_homework.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_homework.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_frontpage.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_frontpage.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_navibar_tips_icon_store.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\home_navibar_tips_icon_store.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_weight_press.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\btn_weight_press.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_home_arrow_down_pressed.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\title_home_arrow_down_pressed.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_zhoubianyou.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_zhoubianyou.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yy_calendar_icon_previous.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\yy_calendar_icon_previous.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_hotel.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_hotel.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\tab_right_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_light_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\btn_light_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_hotel.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_hotel.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_three_normal.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_three_normal.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hotel_booking_web_loading_3.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\hotel_booking_web_loading_3.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bodyc.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\bodyc.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_up_black.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_arrow_up_black.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_coffee.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_coffee.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_webank_bind_three_done.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\pay_webank_bind_three_done.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_pet.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_pet.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_icon.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\location_icon.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yy_calendar_icon_next.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\yy_calendar_icon_next.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_home_arrow_down_normal.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\title_home_arrow_down_normal.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_button_bg.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\bottom_button_bg.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_locate.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\icon_locate.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_takeaway.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_takeaway.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_index_home_pressed.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\main_index_home_pressed.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_press.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\tab_right_press.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_title_bar_cover.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\search_title_bar_cover.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\MyApplication9\\viewpagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_imarry.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_imarry.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_index_search_pressed.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\main_index_search_pressed.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_icon.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\location_icon.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_more.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\ic_home_more.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\add.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_corner_bg.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\src\\main\\res\\drawable-hdpi\\round_corner_bg.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_comer_guide_fg_2.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\src\\main\\res\\drawable-hdpi\\new_comer_guide_fg_2.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication9\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\tarena\\AndroidStudioProjects\\MyApplication10\\groupon\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     }
 ]
