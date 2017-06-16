@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal"
+    android:background="@color/colorHead">
+
+    <LinearLayout
+        android:id="@+id/head_linear"
+        android:layout_width="0dp"
+        android:layout_weight="1.5"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/head_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cityname"
+            android:textSize="@dimen/cityName"
+            android:textColor="@color/colorWhite"/>
+        <ImageView
+            android:id="@+id/head_down"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/title_home_arrow_down_normal"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/head_k"
+        android:layout_width="0dp"
+        android:layout_weight="4.5"
+        android:layout_height="35dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:background="@drawable/head_shape">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/navibar_search_icon_search"/>
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hint"/>
+        </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+    <ImageView
+        android:id="@+id/head_menu"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/home_navibar_icon_add"/>
+
+    </LinearLayout>
+
+</LinearLayout>
